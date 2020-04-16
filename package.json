@@ -195,7 +195,7 @@
     "jest": "^22.3.0",
     "json-loader": "^0.5.4",
     "match-sorter": "^2.2.3",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "mkdirp": "^0.5.1",
     "ms": "^2.1.1",
     "nock": "^9.1.5",
